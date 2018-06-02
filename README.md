@@ -1,9 +1,9 @@
 In addition to Udacity Deep Learning Nano Degree materials you will find my submissions for the project requirements. You can 
 go to each project material following the links below: 
 
-* [Your First Neural Network](https://github.com/udacity/deep-learning/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
-* [Text Generation](https://github.com/udacity/deep-learning/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
-* [Face Generation](https://github.com/udacity/deep-learning/tree/master/face_generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
+* [Your First Neural Network](https://github.com/cihansoylu/deep-learning/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
+* [Text Generation](https://github.com/cihansoylu/deep-learning/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
+* [Face Generation](https://github.com/cihansoylu/deep-learning/tree/master/face_generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
 
 As of June 1, 2018 the projects in the program are differ from the ones listed below. 
 
